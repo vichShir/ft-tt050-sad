@@ -14,3 +14,12 @@ Este repositório contém algumas das **atividades** desenvolvidas e **o trabalh
 ### 🌐 Motivação
 
 As atividades e o trabalho compõem a nota final da disciplina de **TT050 - Sistemas de Apoio à Decisão** (2º Semestre 2021) na Faculdade de Tecnologia (FT) UNICAMP.
+
+### ✏️ Desenvolvedores do Trabalho
+
+- 👦 [Caio Pereira Masseu](https://github.com/caiomasseu)
+- 👦 Gabriel Luis Paulino
+- 👦 Jonatas Goes da Silva
+- 👦 Matheus Eduardo da Silva
+- 👦 Renan de Oliveira Ferretti
+- 👦 [Victor Yukio Shirasuna](https://github.com/vichShir) (vichShir)
