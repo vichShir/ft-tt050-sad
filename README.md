@@ -4,12 +4,12 @@
 
 ### 📃 Descrição
 
-Este repositório contém algumas das **atividades** desenvolvidas utilizando **Jupyter Notebook** e submetidos ao longo do semestre.
+Este repositório contém algumas das **atividades** desenvolvidas e **o trabalho final sobre Regressão Linear para Predição** utilizando **Jupyter Notebook**, submetidos ao longo do semestre.
 
 ### 📚 Conteúdo
 
 - Atividades
-- Trabalho
+- Trabalho sobre Regressão Linear
 
 ### 🌐 Motivação
 
